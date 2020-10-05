@@ -1,0 +1,6 @@
+N = 500
+ignore line = 12
+InConfiguration = E:\soft_sphere\code\pdjamming\generate_positions\generate_positions\initial_positions_N8000\initial_positions_N8000_0.dat
+OutConfiguration = NULL
+monitor = 0
+MonitorFile = NULL

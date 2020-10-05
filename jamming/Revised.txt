@@ -1,0 +1,8 @@
+potential energy factor have been multiplied into potential energy.
+dt have been divided by sigma_mean.
+introduce verlet list to implete calculate force.
+initialize alpha using alpha0 in the creator function of FIRE.cpp.
+initialize negtivestep(0)、currentstep(0) and alpha(alpha0) each relaxation. 
+
+for number of particles eq 50,
+optimize this program and make it reduce at least 50*1e-16 potential energy after each step.
